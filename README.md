@@ -10,4 +10,6 @@
 • Added alt tags to all the photos and icons
 • simplified CSS classes by cutting repeat code  
 
+## see page at https://nadybee.github.io/module_1/
+
 
