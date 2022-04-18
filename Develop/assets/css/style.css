@@ -4,10 +4,27 @@
   margin: 0;
 }
 
+/* global styles */
+
 body {
   background-color: #d9dcd6;
 }
 
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+p {
+  font-size: 16px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+/* Header Styles */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -42,14 +59,7 @@ body {
   margin-left: 25px;
 }
 
-a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-p {
-  font-size: 16px;
-}
+/* main section styles */
 /* I changed the main picture link to the html so it could have a alt */
 .hero {
   height: 800px;
@@ -64,6 +74,7 @@ p {
   display: inline-block;
   margin-left: 20px;
 }
+
 /* Consolidated classes to one for the three main cards */
 .card-1 {
   margin-bottom: 20px;
@@ -73,10 +84,7 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-  }
+
 .float-left {
   float: left;
   margin-right: 25px;
@@ -88,7 +96,7 @@ h2 {
   margin-left: 25px;
   max-height: 200px;
 }
-
+/* side bar styles */
 /* consolidated the classes for the side bar */
 .benefits {
   margin-right: 20px;
@@ -116,7 +124,7 @@ h2 {
 .benefit {
   margin-bottom: 32px;
 }
-
+/* footer styles */
 /* footer changed footer to h3 from h2 */
 
 .footer {
