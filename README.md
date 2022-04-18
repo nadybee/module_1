@@ -9,7 +9,10 @@
 • Removed imgs from CSS and embedded them in the html
 • Added alt tags to all the photos and icons
 • simplified CSS classes by cutting repeat code  
+• moved html folder to the root folder so gitpages would work. Change all the href to make it work.
 
 ## see page at https://nadybee.github.io/module_1/
+
+## ![Alt text](Screen%20Shot%202022-04-18%20at%207.26.48%20AM.png "screenshot of page")
 
 
